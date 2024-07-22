@@ -12,4 +12,6 @@ int main()
     printf("added new line for pull");
      printf("added one more line for pull");
     printf("adding a new line");
+
+     printf("adding a new line in main  ");
 }
