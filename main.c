@@ -6,7 +6,7 @@ void fun()
 }
 int main()
 {    printf("adding a new line in feature");
-    printf("hello world\n");
+   
     fun();
     fun1();
     printf("added new line for pull");
