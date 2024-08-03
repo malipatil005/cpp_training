@@ -5,8 +5,8 @@ void fun()
     printf("added a new function\n");
 }
 int main()
-{
-    printf("hello world\n");
+{    printf("adding a new line in feature");
+   
     fun();
     fun1();
     printf("added new line for pull");
