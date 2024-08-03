@@ -17,4 +17,5 @@ int main()
     printf("adding new line in remote main");
      printf("adding new line in  main branch agiain");
      printf("adding new line in  main branch for f2 branch");
+      printf("adding new line in  feature2 branch");
 }
