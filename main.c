@@ -18,4 +18,6 @@ int main()
      printf("adding new line in  main branch agiain");
      printf("adding new line in  main branch for f2 branch");
       printf("adding new line in  feature2 branch");
+
+      printf("adding new line in new branch on 25-08-2024");
 }
